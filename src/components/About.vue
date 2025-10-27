@@ -5,14 +5,16 @@
 
   <div class="w-3/4 mb-15">
     <p class="text-shadow-md text-lg mb-4">
-      A Vide T-shirts é uma marca de moda feminina dedicada a oferecer T-shirt
-      exclusivas com design moderno e qualidade superior. Trabalhamos com
-      tecidos nobres e modelagens que valorizam todos os tipos de corpo.
+      Bem-vinda ao espaço Vide T-shirts! Cansada do óbvio? Nós também. Nossas
+      t-shirts femininas são a dose de estilo, humor e atitude que faltava no
+      seu guarda-roupa.
     </p>
     <p class="text-shadow-md text-lg">
-      Cada T-shirt é pensada para acompanhar você em todos os momentos: da
-      reunião importante ao café com as amigas. Porque ser Vide é sobre
-      autenticidade, confiança e muito estilo! 💕
+      Peças versáteis e cheias de personalidade, ideais para o look do dia a
+      dia, para o rolê com as amigas ou para o momento de relaxar. A gente não
+      acredita em clichês, mas sim em camisetas que contam histórias e te fazem
+      sorrir. Porque estilo de verdade é se vestir de verdade. Vista sua
+      identidade, vista Vide t-shirts. 💕
     </p>
   </div>
 
@@ -21,7 +23,7 @@
     <h3 class="text-xl font-bold mb-4">Nossa Jornada</h3>
     <div class="mb-4">
       <p class="font-semibold text-info text-shadow-md">2021 - O Início</p>
-      <p class="">Nascemos com o sonho de transformar a moda feminina</p>
+      <p class="">Nascemos com a idéia de unir conforto e versatilidade</p>
     </div>
     <div class="mb-4">
       <p class="font-semibold text-info text-shadow-md">Hoje</p>

@@ -52,7 +52,7 @@
 
 <script setup>
 import { onMounted, ref } from "vue";
-import { util } from "../script/util";
+import { util } from "../utils/util";
 
 const images_collection1 = ref([]);
 const images_collection2 = ref([]);

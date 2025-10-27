@@ -31,7 +31,7 @@
 
 <script setup>
 import { ref, computed, onMounted, onBeforeUnmount } from "vue";
-import { util } from "../script/util";
+import { util } from "../utils/util";
 
 const images = ref([]);
 const currentIndex = ref(0);

@@ -102,8 +102,8 @@
     <!-- Horário de Atendimento -->
     <div class="mt-10 text-center bg-secondary-content p-6 rounded-lg">
       <p class="font-bold mb-2">⏰ Horário de Atendimento</p>
-      <p class="text-shadow-md">Segunda a Sexta: 9h às 18h</p>
-      <p class="text-shadow-md">Sábado: 9h às 13h</p>
+      <p class="text-shadow-md">Segunda a Sexta: 7:00 às 18:00</p>
+      <p class="text-shadow-md">Sábado: 8:00 às 12:00</p>
     </div>
   </div>
 </template>
