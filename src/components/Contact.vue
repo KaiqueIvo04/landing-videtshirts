@@ -18,7 +18,7 @@
         <div class="mb-4 flex justify-center">
           <a
             title="WhatsApp Vide Boss"
-            href="https://wa.me/5581971182390"
+            href="https://wa.me/5581971182390?text=Olá! Vim pelo site e gostaria de saber mais sobre seus produtos."
             target="_blank"
             ><img
               width="65"
