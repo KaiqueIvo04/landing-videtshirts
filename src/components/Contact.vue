@@ -21,9 +21,8 @@
             href="https://wa.me/5581971182390?text=Olá! Vim pelo site e gostaria de saber mais sobre seus produtos."
             target="_blank"
             ><img
-              width="65"
               alt="WhatsApp"
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904"
+              src="https://cdn-icons-png.flaticon.com/128/3536/3536445.png"
           /></a>
         </div>
         <h3 class="font-bold text-secondary text-xl mb-2 text-shadow-md">
@@ -50,9 +49,9 @@
             href="https://www.instagram.com/vide_t.shirts/"
           >
             <img
-              width="65"
+
               alt="Instagram"
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Instagram-Gradient-Logo-PNG.png/512px-Instagram-Gradient-Logo-PNG.png?20240913161112"
+              src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png"
             />
           </a>
         </div>
@@ -80,9 +79,8 @@
             href="mailto:videboss2020@gmail.com"
           >
             <img
-              width="65"
-              alt="Mail (iOS)"
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/512px-Mail_%28iOS%29.svg.png?20141024222707"
+              alt="Mail"
+              src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png"
             />
           </a>
         </div>
